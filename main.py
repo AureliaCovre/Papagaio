@@ -1,3 +1,5 @@
+#  Papagaio Multilíngue - Desafio de Programação
+
 """ Humberto tem um papagaio muito esperto. Quando está com as duas pernas no chão, o papagaio fala em português.
 Quando levanta a perna esquerda, fala em inglês. Por fim, quando levanta a direita fala em francês. Nico, amigo de
 Humberto, ficou fascinado com o animal. Em sua emoção disse: “E quando ele levanta as duas?”. Antes que Humberto
